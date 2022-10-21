@@ -1,13 +1,13 @@
 {
-    "display_name": "NLP Basics",
+    "display_name": "Basic examples of text processing",
     "command": "generate",
-    "dependencies": [],
+    "dependencies": [pandas, numpy, sklearn, jupyter, gensim],
 
-    "keywords": [],
-    "methodology": ["NLP"],
+    "keywords": [NLP],
+    "methodology": ["Text and natural language processing"],
     "topic": [],
 
-    "description": "Basic NLP toolkit template.",
+    "description": "Basic NLP toolkit template",
     "author": "Daniel Wang and Vittor Faria Pereira",
     "author_email": "daniel.wang@oliverwyman.com"
 }
