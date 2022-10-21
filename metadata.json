@@ -1,9 +1,9 @@
 {
     "display_name": "Basic examples of text processing",
     "command": "generate",
-    "dependencies": [pandas, numpy, sklearn, jupyter, gensim],
+    "dependencies": ["pandas", "numpy", "sklearn", "jupyter", "gensim"],
 
-    "keywords": [NLP],
+    "keywords": ["nlp", "text", "natural language"],
     "methodology": ["Text and natural language processing"],
     "topic": [],
 
